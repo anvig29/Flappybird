@@ -1,4 +1,5 @@
 
+Relive the nostalgia of your childhood with this evergreen game!
 
+<img width="696" alt="Screenshot 2022-11-01 at 8 41 53 PM" src="https://user-images.githubusercontent.com/103413125/201252919-a543d0ae-0314-44b3-8763-e77a3ed3f832.png">
 
-<img width="1440" alt="Screenshot 2022-11-01 at 8 41 53 PM" src="https://user-images.githubusercontent.com/103413125/201167463-637933a0-3b1d-4e0e-bf0f-e7c266c65cee.png">
